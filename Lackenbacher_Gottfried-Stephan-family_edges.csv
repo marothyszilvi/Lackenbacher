@@ -1,0 +1,16 @@
+Source,Target,Relation,Directed
+2,12,apa,Yes
+2,10,apa,Yes
+2,3,házastárs,No
+2,1,apa,Yes
+2,5,apa,Yes
+4,2,keresztszülő,Yes
+11,12,keresztszülő,Yes
+11,10,keresztszülő,Yes
+9,3,keresztszülő,Yes
+4,1,keresztszülő,Yes
+4,5,keresztszülő,Yes
+3,1,anya,Yes
+3,5,anya,Yes
+3,10,anya,Yes
+3,12,anya,Yes

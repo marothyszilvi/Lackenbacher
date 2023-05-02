@@ -1,0 +1,11 @@
+Source,Target,Relation,Directed
+67,48,keresztszülő,Yes
+48,47,keresztszülő,Yes
+48,64,keresztszülő,Yes
+48,68,apa,Yes
+48,69,házastárs,No
+48,70,apa,Yes
+69,68,anya,Yes
+69,70,anya,Yes
+50,68,keresztszülő,Yes
+29,70,keresztszülő,Yes
