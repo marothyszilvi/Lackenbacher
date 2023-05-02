@@ -1,7 +1,7 @@
 # Lackenbacher
 Consanguineal, Affinal and Ritual Kinship of the Lackenbacher Family. Research data by Máté TAMÁS.
 
-How to cite: TAMÁS, Máté. Consanguineal, Affinal and Ritual Kinship of the Lackenbachers. Data Source for Network Analysis. 2 May, 2023 (Zenodo DOI: ...)
+How to cite: TAMÁS, Máté. Consanguineal, Affinal and Ritual Kinship of the Lackenbachers. Data Source for Network Analysis. 2 May, 2023. <a href="https://zenodo.org/badge/latestdoi/635458552"><img src="https://zenodo.org/badge/635458552.svg" alt="DOI"></a>
 
 See also: Tamás, M., Minkó, M. and Maróthy, Sz. "A szakáll, a név, a kapcsolat és ami ezekből következik: vallásváltások és keresztszülői kapcsolatok a 19. század eleji Habsburg Monarchiában", <i>Az irodalom rejtett hálózatai (blog series),</i> 1 May, 2023, https://kattatudomanyra.hu/az-irodalom-rejtett-halozatai/lackenbacher/.
 
